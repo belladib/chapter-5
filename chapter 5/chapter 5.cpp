@@ -1,3 +1,4 @@
+//this program will calculate the daily population increase and give you the total population at the end
 #include <iostream>
 #include <cmath>
 #include <iomanip>
