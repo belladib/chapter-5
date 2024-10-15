@@ -1,23 +1,3 @@
-/*#include <iostream>
-#include <cmath>
-#include <iomanip>
-//#include <string>
-
-using namespace std;
-
-int main()
-{
-	//string *
-	
-		for (int count = 0; count < 10; count++)
-
-	{
-		int stars = count / 1;
-
-		for (int count = 0; count < stars; count++)
-		{cout << "*";
-		cout << endl; }
-	}*/
 
 
 #include <iostream>
@@ -50,6 +30,3 @@ int main()
 
 
 
-
-
-//}
