@@ -1,3 +1,4 @@
+//sorts names alphabetically
 #include <iomanip>
 #include <iostream>
 #include <fstream>
